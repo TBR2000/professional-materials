@@ -1,12 +1,41 @@
+body {
+    background-color: #ebe9e9;
+}
+
+.jumbotron{
+    background-color: #ebe9e9; 
+}
+
+.dropdown-menu{
+    background-color: #ebe9e9;
+}
+
+.pic{
+    border-radius: 5px;
+    padding: 20px;
+
+}
+
 .responsive {
     width: auto;
     height: auto;
     max-width: 100%;
+    border-radius: 15px;
+    padding: 20px;
   }
 
 .navbar{
+    color: black;
     font-family: 'Roboto', sans-serif;
+    background-color: #e6a365;
   
+}
+.navlink{
+    color: black;
+}
+
+.navitem{
+    color: black;
 }
 
 .display-3{
@@ -25,6 +54,17 @@
     font-family: 'Lateef', sans-serif;
 }
 
-.btn{
+.btn-primary{
     font-family: 'Raleway', sans-serif;
+    background-color: #787675;
+}
+.btn-secondary{
+    font-family: 'Raleway', sans-serif;
+    background-color: #787675;
+    
+}
+
+.col-md-4{
+    background-color: #e6a365;
+    padding: 5px;
 }

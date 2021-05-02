@@ -11,5 +11,6 @@ $('#projBgit').attr('href',)
 $('#projCgit').attr('href',)
 $('#github').attr('href',)
 $('#linkdin').attr('href',)
+$('#resume').attr('href',)
 
 
