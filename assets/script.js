@@ -1,6 +1,6 @@
 // display local time
 let currentTime = moment().format('MMMM Do, h:mm a');
-$('#time').html(`My local time is: ${currentTime}`)
+$('#time').html(${currentTime})
 
 //Links
 $('#projAsite').attr('href', 'https://tbr2000.github.io/The-ANZAC-travel-Bubble_App/')
